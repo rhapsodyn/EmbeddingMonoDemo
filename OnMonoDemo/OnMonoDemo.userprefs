@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="App\App.cs">
+    <Files>
+      <File FileName="OnMonoDemo\Program.cs" Line="20" Column="1" />
+      <File FileName="Lib\Lib.cs" Line="11" Column="3" />
+      <File FileName="App\App.cs" Line="7" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="App" expanded="True">
+            <Node name="App.cs" selected="True" />
+          </Node>
+          <Node name="Framework" expanded="True" />
+          <Node name="Lib" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\tassadarliu\Documents\GitHub\EmbeddingMonoDemo\OnMonoDemo\OnMonoDemo\Program.cs" line="20" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
